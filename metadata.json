@@ -1,0 +1,5 @@
+{
+  "name": "RUET Student ID Card Generator",
+  "description": "A web application to generate a student ID card that visually replicates the RUET ID card. Users can input their details, upload photos, and download the generated ID card.",
+  "requestFramePermissions": []
+}
