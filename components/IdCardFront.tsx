@@ -69,7 +69,7 @@ export const IdCardFront = forwardRef<HTMLDivElement, IdCardFrontProps>(({ data 
         
         {/* Footer */}
         <div className="absolute -bottom-2.5 -left-2.5 -right-2.5 h-[18px] bg-[#89c5e5] flex items-center justify-center">
-           <p className="text-white font-bold text-sm tracking-[0.25em]">STUDENT</p>
+           <p className="text-black font-bold text-sm tracking-[0.25em]">STUDENT</p>
         </div>
       </div>
     </div>
