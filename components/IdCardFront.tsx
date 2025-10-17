@@ -14,7 +14,7 @@ export const IdCardFront = forwardRef<HTMLDivElement, IdCardFrontProps>(({ data 
         <img
           src={data.watermarkPhoto}
           alt="Watermark"
-          className="absolute top-0 bottom-0 right-0 my-auto w-336 h-212 object-contain opacity-20 select-none z-0"
+          className="absolute top-0 bottom-0 right-0 my-auto w-336 h-212 object-contain opacity-40 select-none z-0"
           aria-hidden="true"
         />
       )}
